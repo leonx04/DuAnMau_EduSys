@@ -1,4 +1,4 @@
-# 🎓 EduSys - Education Management System
+# 🎓 EMS - Education Management System
 
 EduSys is a comprehensive Education Management System designed to streamline and enhance the administrative and learning processes of educational institutions. Built with Java Swing for the user interface and Microsoft SQL Server for data management, this project offers a robust solution for managing school operations efficiently.
 
@@ -15,10 +15,10 @@ EduSys provides a wide range of features including but not limited to:
 
 ## 🚀 Getting Started
 
-To get started with EduSys, follow these steps:
+To get started with EMS, follow these steps:
 
 1. **🔧 Prerequisites:**
-    - Java Development Kit (JDK) 16 or above
+    - Java Development Kit (JDK) 17 or above
     - Microsoft SQL Server
     - Any Java IDE (e.g., NetBeans, IntelliJ IDEA, Eclipse)
 
@@ -35,7 +35,7 @@ To get started with EduSys, follow these steps:
 
 ## 🤝 Contributing
 
-Contributions to EduSys are welcome! Whether it's bug reports, feature requests, or code contributions, please feel free to reach out or submit a pull request.
+Contributions to EMS are welcome! Whether it's bug reports, feature requests, or code contributions, please feel free to reach out or submit a pull request.
 
 ## 📜 License
 
