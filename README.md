@@ -1,10 +1,10 @@
 # 🎓 EMS - Education Management System
 
-EduSys is a comprehensive Education Management System designed to streamline and enhance the administrative and learning processes of educational institutions. Built with Java Swing for the user interface and Microsoft SQL Server for data management, this project offers a robust solution for managing school operations efficiently.
+EMS is a comprehensive Education Management System designed to streamline and enhance the administrative and learning processes of educational institutions. Built with Java Swing for the user interface and Microsoft SQL Server for data management, this project offers a robust solution for managing school operations efficiently.
 
 ## ✨ Features
 
-EduSys provides a wide range of features including but not limited to:
+EMS provides a wide range of features including but not limited to:
 
 - **📚 Student Management:** Keep track of student information, attendance, and academic performance.
 - **📘 Course Management:** Create, update, and manage courses and curriculums.
@@ -39,4 +39,4 @@ Contributions to EMS are welcome! Whether it's bug reports, feature requests, or
 
 ## 📜 License
 
-EduSys is open-source software licensed under the MIT license.
+EMS is open-source software licensed under the MIT license.
